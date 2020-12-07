@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "co-body": "^6.1.0",
+    "co-views": "^2.1.0",
+    "ejs": "^3.1.5",
     "koa": "^2.13.0",
     "koa-session": "^6.1.0"
   }
